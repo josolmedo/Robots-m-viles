@@ -1,3 +1,3 @@
 # Robots-m-viles
 
-#Aquí estarán los archivos de las prácticas
+#Modifica o reemplaza los archivos del simulador por los de aquí
