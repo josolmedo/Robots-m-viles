@@ -1,0 +1,4 @@
+Libro 0.34 0.30
+Martillo 0.9 1.4
+Nino 0.9 0.7
+Mama 0.3 0.5
