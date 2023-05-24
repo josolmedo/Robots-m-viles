@@ -1,0 +1,16 @@
+room freespace 0.0 0.0 0.0
+room livingroom 0.80 1.53
+room kitchen 1.5 1.4
+room bedroom 1.0 0.6
+room corridor 0.5 1.0
+room service 1.65 0.4
+room studio 0.5 0.65
+ 
+furniture table bedroom 0.183334 0.700000 0.0
+furniture table livingroom 3.183334 2.000000 0.0
+furniture cubestable bedroom 6.183334 7.000000 0.0
+object Libro studio 0.34 0.30 0.0
+object Martillo livingroom 0.9 1.4 0.0
+object Nino bedroom 0.9 0.7
+object Mama studio 0.3 0.5
+
